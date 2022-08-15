@@ -35,6 +35,16 @@ data_augmentation = keras.Sequential([
         layers.RandomZoom(0.2), #range for random zoom: +/- 20%  
 ]) 
 
+![Data Augmentation Example](data_augmentation_example.PNG)
 
 
+## Methods
+Tools:  
+- NumPy, Pandas, and Tensorflow,  Keras for data analysis and inference  
+- GitHub for hosting/version control  
+
+Inference methods used with Tensorflow & Keras:  
+- Sequential model  
+- Features: ImageDataGenerator  
+- Callbacks: ModelCheckpoint  
 
