@@ -14,3 +14,6 @@ This projects conducts experiments that will:
 - Use data augmentation to artificially create new training data, allowing the model to see new training data while training  
 - Use callbacks to help fine tone the model  
 - Train our model and obtain > 75% accuracy  
+
+## Selection of Data
+Data consits of 900 images for each class (Cyclone, Earthquake, Food, Wildfire)
