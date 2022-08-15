@@ -17,6 +17,7 @@ This projects conducts experiments that will:
 
 ## Selection of Data
 Non formated data set can be found here: https://www.kaggle.com/datasets/mikolajbabula/disaster-images-dataset-cnn-model  
+Formatted data can be found on my Google Drive: https://drive.google.com/drive/folders/13eHRpxOIUN13Px_rLkFZOyW3tbL4MWBd?usp=sharing
 Data consits of 900 images for each class (Cyclone, Earthquake, Food, Wildfire)
 ![Natural Disaster Images](naturaldisaster.jpg)
 
