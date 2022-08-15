@@ -48,3 +48,16 @@ Inference methods used with Tensorflow & Keras:
 - Features: ImageDataGenerator  
 - Callbacks: ModelCheckpoint  
 
+![Model Summary](model_summary.PNG)
+
+
+## Results
+By using callsbacks, while training the model the best model was able to be saved. This model then was used on the test dataset to determine the final accuracy. 
+
+![Model Accuracy](model_accuracy.PNG)
+
+History callback is automatically applied to every model, allowing us to see metrics for each epoch. During training, this model ran for 100 epoch. The test and validation accuracy and losses can be seen below.   
+
+![Training vs. Validation Accuracy & Loss](training_vs_validation.PNG)
+
+
